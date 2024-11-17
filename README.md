@@ -2,7 +2,7 @@
 
 A modern, user-friendly desktop application for downloading videos and audio from YouTube using yt-dlp with a clean dark-themed interface.
 
-<img src="https://raw.githubusercontent.com/Hasintha-Nirmal/HN-Downloader/refs/heads/main/images/Screenshot.png" alt="Screenshot of HN Downloader" width="500" height="300">
+<img src="https://raw.githubusercontent.com/Hasintha-Nirmal/HN-Downloader/refs/heads/main/images/Screenshot.png" alt="Screenshot of HN Downloader" width="500" >
 
 
 ## Features
