@@ -32,7 +32,7 @@ A modern, user-friendly desktop application for downloading videos and audio fro
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hn-downloader.git
+git clone https://github.com/Hasintha-Nirmal/hn-downloader.git
 cd hn-downloader
 ```
 
